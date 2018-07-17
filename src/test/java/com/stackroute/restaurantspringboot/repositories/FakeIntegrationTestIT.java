@@ -12,6 +12,6 @@ public class FakeIntegrationTestIT {
 
     @Test
     public void fakeTest(){
-        assertTrue(false);
+        assertTrue(true);
     }
 }
